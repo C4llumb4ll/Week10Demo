@@ -6,6 +6,7 @@ Here is a link to my LinkedIn: https://www.linkedin.com/in/callum-ball-/
 
 Picture of an Octocat is meant to be here but I dont know how to put a picture in
 
+
 Heres a list of my 5 favorite games:
 1. The Last Of Us
 2. Spider-Man: Miles Morales
